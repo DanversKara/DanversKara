@@ -10,7 +10,7 @@
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://social.chiefgyk3d.com/@KaraDanvers)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danverskara)
 
-I DO NOT USE META FACEBOOK PRODUCTS AND SERVICES & I DONT USE X-TWITTER
+I DO NOT USE META FACEBOOK PRODUCTS AND SERVICES & I DONT USE X-TWITTER & ALSO DONT USE BLUESKY
 
 <div align="center">
 <sub>❤️ Support my work & Support The Lab https://pay.dox.box</sub>
