@@ -1,6 +1,4 @@
 # 👋 Hey, I'm Kara, Welcome to the Git
-
-### Welcome
 - i just like to do experiments, ideas, and customizations and share my ideas encase you wanna use them - like minds
 
 #### 🌐 Find me on
