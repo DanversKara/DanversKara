@@ -10,6 +10,7 @@ I like to experiment, build ideas, and customize things — and share what I mak
 
 **🔗 All my links:** https://karas.page
 **🔗 My StartPage Bookmarks:** https://start.dox.box/
+**🔗 Kara's Referral Hub:** https://myref.info/
 
 ### 💬 Connect with me on my socials and streaming at:
 
