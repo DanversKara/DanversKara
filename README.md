@@ -3,8 +3,8 @@
 
 #### 🌐 Find me on
 
-**🔗 All my links:** [[Karas.Page](https://karas.page)](https://karas.page)
-**🔗 My StartPage Bookmarks:** [[Karas.Page](https://start.dox.box/)]([https://karas.page](https://start.dox.box/))
+**🔗 All my links:** https://karas.page
+**🔗 My StartPage Bookmarks:** https://start.dox.box/
 
 
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://social.chiefgyk3d.com/@KaraDanvers)
