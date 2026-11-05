@@ -14,6 +14,6 @@
 
 I DO NOT USE META FACEBOOK PRODUCTS AND SERVICES & I DONT USE X-TWITTER & ALSO DONT USE BLUESKY
 
-**<div align="center">
+<div align="center">
 <sub>❤️ Support my work & Support The Lab https://pay.dox.box</sub>
-</div>**
+</div>
